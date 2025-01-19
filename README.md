@@ -31,7 +31,6 @@ git clone https://github.com/your-username/linkedin-distraction-free-plugin.git
 
 4. Click **Load unpacked** and select the folder containing this project.
 
-  
 
 ## Files
 
@@ -51,7 +50,8 @@ git clone https://github.com/your-username/linkedin-distraction-free-plugin.git
 
 *Add screenshots or gifs of your plugin in action.*
 
-  ![The way your new LinkedIn will look like](https://postimg.cc/XGXJw68s)
+  How your LinkedIn page would look:
+  <img width="1575" alt="Screenshot 2025-01-19 at 14 28 35" src="https://github.com/user-attachments/assets/1e3d9c06-ffbc-43d2-ac61-36f52fb34cb3" />
 
 ## License
 

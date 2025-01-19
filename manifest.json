@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "LinkedIn Element Remover",
+  "version": "1.0",
+  "description": "Removes notification bell, My Network element and infinte scroll newsfeed from linkedin.com",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.linkedin.com/*"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

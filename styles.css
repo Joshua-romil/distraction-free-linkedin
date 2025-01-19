@@ -1,0 +1,13 @@
+/* styles.css */
+
+.global-nav__primary-items li:nth-child(5){
+    display: none !important;
+}
+
+.global-nav__primary-items li:nth-child(2){
+    display: none !important;
+}
+
+.scaffold-finite-scroll.scaffold-finite-scroll--infinite{
+    display: none !important;
+}

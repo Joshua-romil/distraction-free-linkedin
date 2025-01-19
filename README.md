@@ -31,19 +31,6 @@ git clone https://github.com/your-username/linkedin-distraction-free-plugin.git
 
 4. Click **Load unpacked** and select the folder containing this project.
 
-
-## Files
-
-- `manifest.json`: The plugin's manifest file, defining permissions and settings.
-
-- `hello.html`: A sample or popup file for the extension.
-
-- `styles.css`: Custom CSS for styling.
-
-- `scripts/`: JavaScript files for logic and functionality.
-
-- `images/`: Icons or other image assets used in the plugin.
-
   
 
 ## Screenshots
